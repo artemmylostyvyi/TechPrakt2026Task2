@@ -12,9 +12,9 @@ body {
 
 .header {
     text-align: center;
-    padding: 40px 20px;
-    background: #2563eb;
-    color: white;
+    padding: 60px 40px;
+    background: indianred;
+    color: #333;
 }
 
 .news-container {
